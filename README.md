@@ -38,7 +38,3 @@ Here are some ideas to get you started:
 
 
 
-### Status 📈
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=@PROFESSOR-EDITX&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
-
