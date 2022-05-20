@@ -1,4 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HELLO+GUYS+I!;ANIMESH!;WELCOME +TO+MY+GITHUB!;)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HELLO+GUYS+I!;ANIMESH!;WELCOME+TO+MY+GITHUB!)
 </p>
 <!--
 **Ns-AnoNymouS/Ns-AnoNymouS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
